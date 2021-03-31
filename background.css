@@ -1,0 +1,22 @@
+body {
+	background-image: url("img.jpg");
+    background-repeat: repeat-z;	
+	opacity: 0.6;
+	background-size: auto;
+}
+
+body p {
+	color: white;
+	opacity: 2
+}
+
+body h2 {
+	color: white;
+	opacity: 2
+}
+
+
+body a {
+	opacity: 2;
+	color: white;
+}
